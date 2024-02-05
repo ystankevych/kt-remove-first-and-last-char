@@ -1,8 +1,6 @@
-# Remove first and last characters
+# Remove First and Last Characters
 
-It's pretty straightforward. Your goal is to implement a function that removes the first and last characters of a string. You're given one parameter, the original string. You don't have to worry about strings with less than two characters.
-
-For example:
+Implement a `removeChars()` function that removes a given string's first and last characters. For example:
 
 ```java
 removeChars("book") // "oo"
